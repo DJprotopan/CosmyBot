@@ -1,0 +1,21 @@
+# Privacy Policy for Cosmy Discord Bot
+
+1. Information We Collect
+Cosmy collects only the absolute minimal user data required for its core ticket system functionality. We store the following technical data in a local, secure aiosqlite database:
+* User ID: The unique Discord Snowflake ID of the user who opened the ticket (required to route and forward messages).
+* Channel ID: The unique Discord Snowflake ID of the created ticket channel.
+
+2. How We Use Information
+When a ticket is created, the bot generates a dedicated channel for the server administration. It uses the stored `user_id` and `channel_id` strictly for:
+* Forwarding messages in real-time between the staff and the user using Discord embeds.
+* Managing associated services (issuing staff roles, receiving mentions, deleting channels, and sending final responses).
+We never log, store, sell, or share message content, and we never use data for tracking or advertising.
+
+3. Data Retention and Deletion
+We strictly respect your privacy and do not store your data long-term. All collected technical data (`user_id` and `channel_id`) is automatically and permanently deleted from the database as soon as the ticket is closed by a staff member or the user.
+
+**4. User Rights (Data Removal)**
+Users have the right to request the manual deletion of any temporary data (`user_id`/`channel_id`) associated with them at any time before the ticket is closed. To do this, please contact the bot owner.
+
+**5. Contact**
+If you have any questions or data removal requests regarding this Privacy Policy, please contact the bot owner directly via Discord.
