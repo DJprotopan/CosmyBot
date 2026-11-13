@@ -1,0 +1,63 @@
+
+Terms of Service for Cosmy Discord Bot
+
+Last Updated: November 13, 2026
+By inviting, configuring, or interacting with the Cosmy Discord Bot ("Cosmy," "the Bot"), you agree to be bound by these Terms of Service ("Terms").
+If you do not agree to these Terms, please discontinue use of the Bot immediately.
+
+1. Description of Service
+
+Cosmy is a Discord utility bot designed to facilitate private support and communication through a real-time ticket system.
+It creates dedicated ticket channels for server administrators and forwards messages between users and staff members.
+
+2. Eligibility and Discord Compliance
+
+• You must meet the minimum age requirements set by Discord to use the Bot.
+• Your use of Cosmy is also governed by the Discord Terms of Service and Discord Community Guidelines. Any violation of Discord’s policies while using Cosmy is strictly prohibited.
+
+3. Acceptable Use
+
+You agree not to misuse Cosmy or use the ticket system for unlawful or disruptive purposes. Specifically, you must not:
+• Spam ticket creation or send automated, unsolicited messages through the Bot.
+• Use the ticket forwarding system to transmit illegal content, hate speech, harassment, malware, or explicit material.
+• Attempt to exploit, reverse-engineer, overload, or disrupt the Bot’s underlying code, commands, or local database.
+• Impersonate server staff, the Bot owner, or other users within ticket channels.
+
+4. Single-Server Scope and Authorized Use
+
+Cosmy is developed and configured strictly for use within one designated Discord server.
+Because administrative commands, moderation tools, and channel routing rely on hardcoded IDs (channel_id and admin_user_id),
+adding or attempting to run Cosmy on external or unauthorized servers is strictly discouraged and unsupported.
+• No Multi-Server Support: Because the Bot utilizes hardcoded channel IDs, inviting Cosmy to an unauthorized server will cause it to malfunction or behave unexpectedly.
+    We reserve the right to immediately remove the Bot from any unauthorized server without notice.
+• Authorized Staff Only: Only pre-configured users (admin_user_id) and designated staff roles within the primary server are permitted to manage tickets, issue roles, or execute administrative commands.
+
+5. Privacy and Data Handling
+
+Cosmy respects user privacy and stores only temporary technical identifiers (user_id and channel_id) required to operate active tickets. We do not log or store message content.
+For full details on how data is handled and deleted, please review the Privacy Policy for Cosmy Discord Bot.
+
+6. Availability and Modifications
+
+• Cosmy is provided on an "AS IS" and "AS AVAILABLE" basis. We do not guarantee uninterrupted uptime, error-free operation, or permanent availability.
+• We reserve the right to modify, suspend, or discontinue any features of the Bot at any time without prior notice.
+
+7. Termination of Access
+
+We reserve the right to restrict, block, or revoke access to Cosmy for any user at our sole discretion, without prior notice, if we believe these Terms have been violated or if the Bot is being abused.
+Additionally, any unauthorized server that invites or attempts to host Cosmy will be immediately removed from the Bot's access.
+
+8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the owner and developer of Cosmy shall not be liable for any direct, indirect, incidental, or consequential damages resulting from:
+• Your use or inability to use the Bot.
+• Malfunctions, unintended command behavior, or security issues resulting from inviting or running Cosmy on an unauthorized external server.
+• Content sent by users or authorized staff through the Bot's message-forwarding system.
+
+9. Changes to These Terms
+
+We may update these Terms of Service from time to time. Continued use of Cosmy after any updates constitutes your acceptance of the revised Terms.
+
+10. Contact
+
+If you have questions about these Terms, wish to report abuse, or need to reach the developer, please contact the bot owner or server staff members directly via Discord or through the ticketing system provided by the Bot.
